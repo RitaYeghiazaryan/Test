@@ -1,6 +1,6 @@
 .ray__wrapper {
- display: flex;
- /* flex-direction:row; */
+  display: flex;
+  /* flex-direction:row; */
   /* gap:0px; */
 
   /* width: 100%; */
@@ -134,11 +134,7 @@
   line-height: 35px;
 }
 .b3__img {
- 
-  width:300px;
-
-
-  
+  width: 300px;
 }
 .b3__button {
   display: flex;
@@ -148,7 +144,7 @@
 
   width: 300px;
 }
-.b3__image{
+.b3__image {
   width: 50%;
 }
 .b3__btn1 {
@@ -164,4 +160,11 @@
   background-color: white;
   color: black;
   border: 1px solid black;
+}
+.block_3bg {
+  width: 1140px;
+  height: 288px;
+  background-image: url("images/Ananas.jpg");
+  background-size: cover;
+  background-position: center center;
 }

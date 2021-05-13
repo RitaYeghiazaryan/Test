@@ -1,6 +1,11 @@
-*{
+body{
+    overflow: hidden;
+   
+}
+    *{
     margin: 0;
     padding: 0;
+
 }
 .b5_main{
     position: absolute;
@@ -8,6 +13,7 @@
     height:768px;
     background-color: #B8E6E1;
     display: flex;
+    width: 100%;
 }
 #span_5_1{
     margin-left: 10%;
